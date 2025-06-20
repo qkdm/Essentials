@@ -29,7 +29,7 @@ public class EconomyTest {
         ess = MockBukkit.load(Essentials.class);
 
         server.addPlayer(PLAYERNAME);
-        server.addPlayer(PLAYERNAME2);
+        // server.addPlayer(PLAYERNAME2);
     }
 
     @AfterAll
